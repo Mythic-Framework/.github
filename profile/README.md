@@ -58,6 +58,7 @@ Most of these maps are automatically started by the server (the ones that are no
 - [Smoke on the Water](https://mrhunter.tebex.io/package/5198707) *
 - [Ferrari Pawnshop](https://www.k4mb1maps.com/package/4672248) *
 - [Dreamworks Mechanics](https://juniors-interiors.tebex.io/category/1930382) *
+- [Dynasty8 real estate agency](https://forum.cfx.re/t/mlo-dynasty8-real-estate-agency/1842152) *
 - **rockford_records** he shut down his tebex :|
 - **nutt_sagma** he shut down his tebex :|
 - **tobii-mineshaft** he shut down his patreon :|
