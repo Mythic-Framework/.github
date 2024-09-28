@@ -5,10 +5,13 @@
 
 ## Description
 
-- Custom written framework that was used for Mythic RP
+- Custom written framework 
+
+- Partnered With FiveForge Studios
+## https://discord.gg/qFeUfUCCbW
 
 ## Official Discord
-- [Discord Link](https://discord.gg/mythicframework) - Offical Discord for community-driven support forum!
+- [Discord Link](https://discord.gg/N2JARAe8Rp) - Offical Discord for Mythic Framework community-driven support forum!
 
 ## Get Started
 - [mythic-framework](https://github.com/Mythic-Framework/mythic-framework) - Get started with the official repository!
@@ -18,7 +21,7 @@
 - Yarn - Maintainer & Community Owner
 - Tyh - Maintainer & Community Owner
 - Nex - Maintainer
-- TheCasual420Gamer - Maintainer
+
 
 ## Credits
 - Alzar & Dr Nick - Original Maintainers and Creators
@@ -26,13 +29,13 @@
 ## Information
 
 # 🚧DISCLAIMER🚧
-We do not own this framework, and we am simply trying to give it the support it deserves. The framework was originally built by Alzar & Dr Nick. Alzar has taken the liberty of releasing the framework, which you can find by following the [original repository](https://github.com/Alzar/mythic-framework) 
+We do not own this framework, and we am simply trying to give it the support it deserves. The framework was originally built by Alzar & Dr Nick. Alzar has taken the liberty of releasing the framework and allowing Treyyyy (Vegeta) and team To Maintain it. You can Alzars orignal repo here [original repository](https://github.com/Alzar/mythic-framework) 
 
 # Requirements 
 | Packages          | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| PNPM | [Download Here](https://pnpm.io/installation) |
 | NodeJS | [Download Here](https://nodejs.org/en/download?text=+) |
+| PNPM | [Download Here](https://pnpm.io/installation) |
 | MongoDB | [Download Here](https://www.mongodb.com/try/download/community) (v6.0.5) |
 | MariaDB | [Download Here](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.6.12&os=windows&cpu=x86_64&pkg=msi&m=acorn) (v10.6.12)
 | HeidiSQL | [Download Here](https://www.heidisql.com/download.php) (*can be installed via MariaDB)
