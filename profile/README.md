@@ -47,7 +47,7 @@ You can explore all the available standalone resources here:
 We’re incredibly thankful to everyone who has contributed to the development and evolution of the Mythic Framework. Here are the amazing people who’ve helped shape it:
 
 - **Treyyyy**
-- **Autlaaw**
+- **AutLaaw**
 - **akaLucifer**
 - **tyh**
 - **DrBooly (Van Man)**
