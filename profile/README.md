@@ -26,9 +26,8 @@ You can explore all the available standalone resources here:
 ## Description
 
 - Custom written framework
-- Partnered With FiveForge Studios
-
-## https://discord.gg/qFeUfUCCbW
+- Partnered With [AutLaaw's Development](https://discord.gg/XMy9rkR2YW)
+- Partnered With [FiveForge Studios](https://discord.gg/qFeUfUCCbW)
 
 ## Official Discord
 
