@@ -39,7 +39,6 @@ You can explore all the available standalone resources here:
 - AutLaaw - Community Owner
 - Tyh - Community Owner
 - Van Man (DrBooly) - Community Owner
-- Rhodinium - TxAdmin Recipe
 
 ## 👥 Contributors
 
