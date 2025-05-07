@@ -80,8 +80,7 @@ Most of these maps are automatically started by the server (the ones that are no
 - [cfx_gn_bx_food_props](https://gnstud.io/collections/props)
 - [gn_saloon](https://gnstud.io/products/black-woods-saloon)
 - [mz_hospital](https://gnstud.io/collections/medical/products/mount-zonah-hospital)
-- [dolu_last_train](https://dolu.tebex.io/package/4465265)
-- [dolu_shells](https://dolu.tebex.io/package/5141128)
+- [dulu_shells](https://dolu.tebex.io/package/5141128)
 - [cafe_prego](https://artex.tebex.io/package/6084340)
 - [noodle_exchange](https://fivem.map4all-shop.com/package/4967545)
 - [xerogasstation](https://fivem.map4all-shop.com/package/5342855)
@@ -92,6 +91,7 @@ Most of these maps are automatically started by the server (the ones that are no
 - [Ferrari Pawnshop](https://www.k4mb1maps.com/package/4672248) \*
 - [Dreamworks Mechanics](https://juniors-interiors.tebex.io/category/1930382) \*
 - [Dynasty8 real estate agency](https://forum.cfx.re/t/mlo-dynasty8-real-estate-agency/1842152) \*
+- **dulu_last_train** he stopped selling his last train map :|
 - **rockford_records** he shut down his tebex :|
 - **nutt_sagma** he shut down his tebex :|
 - **tobii-mineshaft** he shut down his patreon :|
