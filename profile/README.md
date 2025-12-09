@@ -36,7 +36,6 @@ You can explore all the available standalone resources here:
 ## Project Maintainers
 
 - Treyyyy - Community Owner
-- AutLaaw - Community Owner
 - Tyh - Community Owner
 - Van Man (DrBooly) - Community Owner
 
