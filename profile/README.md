@@ -26,12 +26,15 @@ You can explore all the available standalone resources here:
 ## Description
 
 - Custom written framework
-- Partnered With [AutLaaw's Development](https://discord.gg/XMy9rkR2YW)
 - Partnered With [FiveForge Studios](https://discord.gg/qFeUfUCCbW)
 
 ## Official Discord
 
 - [Discord Link](https://discord.gg/N2JARAe8Rp) - Offical Discord for Mythic Framework community-driven support forum!
+
+## Offical Website
+
+- [Website](https://mythicframework.mintlify.app/) - Offical Website for Mythic Framework. Thank you Artmines!
 
 ## Project Maintainers
 
@@ -44,9 +47,8 @@ You can explore all the available standalone resources here:
 We’re incredibly thankful to everyone who has contributed to the development and evolution of the Mythic Framework. Here are the amazing people who’ve helped shape it:
 
 - **Treyyyy**
-- **AutLaaw**
+- **Tyh**
 - **akaLucifer**
-- **tyh**
 - **DrBooly (Van Man)**
 - **Hollow** (adding the major statebag spam fix)
 - **notdroid** for finding the statebag spam issue and contributing the fix
