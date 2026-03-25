@@ -48,7 +48,7 @@ We’re incredibly thankful to everyone who has contributed to the development a
 
 - **Treyyyy**
 - **Tyh**
-- **Artmines (For daily updates and edits**
+- **Artmines (For daily updates and edits)**
 - **DrBooly (Van Man)**
 - **Hollow** (adding the major statebag spam fix)
 - **notdroid** for finding the statebag spam issue and contributing the fix
