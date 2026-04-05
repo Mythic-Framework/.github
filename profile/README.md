@@ -46,7 +46,7 @@ The following individuals are responsible for the contined maintenace and direct
 
 ## 👥 Contributors
 
-We're incredibly thankful to everyone who has contributed to the contined development, maintenance and improvement of **Mythic Framework***. The following individuals have all played a role in helping shape and support the project;
+We're incredibly thankful to everyone who has contributed to the contined development, maintenance and improvement of **Mythic Framework**. The following individuals have all played a role in helping shape and support the project;
 
 - **Treyyyy**
 - **Tyh**
@@ -78,7 +78,7 @@ The original repository was previously available [here](https://github.com/Alzar
 | Bun      | [Download Here](https://bun.sh) *(Optional alternative to PNPM, generally fater)*                                             |
 | MongoDB  | [Download Here](https://www.mongodb.com/try/download/community) *(Latest stable release recommended)*                         |
 | MariaDB  | [Download Here](https://mariadb.org/download/?t=mariadb&p=mariadb&r=12.2.2&os=windows&cpu=x86_64&pkg=msi&mirror=realworldgroup) *(Latest stable release recommended)* |
-| HeidiSQL | [Download Here](https://www.heidisql.com/download.php) (Optional - may also be installed alongside MariaDB)*                  |
+| HeidiSQL | [Download Here](https://www.heidisql.com/download.php) *(Optional - may also be installed alongside MariaDB)*                  |
 
 ## Map Dependencies
 
@@ -102,7 +102,7 @@ Some MLOs in the **Mythic Framework** may no longer be available, or you might p
 - [Auto Exotics](https://lb-customs.tebex.io/package/4339272) \*
 - [Smoke on the Water](https://mrhunter.tebex.io/package/5198707) \*
 - [Ferrari Pawnshop](https://www.k4mb1maps.com/product/4672248) \*
-- [Dreamworks Mechanics]([https://juniors-interiors.tebex.io/category/1930382](https://juniors-interiors.tebex.io/package/5103582)) \*
+- [Dreamworks Mechanics](https://juniors-interiors.tebex.io/package/5103582) \*
 - [Dynasty8 real estate agency](https://forum.cfx.re/t/mlo-dynasty8-real-estate-agency/1842152) \*
 
 **Deprecated / No Longer Available**
