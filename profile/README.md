@@ -65,7 +65,7 @@ We're incredibly thankful to everyone who has contributed to the contined develo
 # 🚧 DISCLAIMER 🚧
 
 We do not own **Mythic Framework** and are simply committed to providing the continused support and maintenance it deserves.
-**Mythic Framework** was orginally created by **Alzar** and **Dr Nick*. It was later publicly released by **Alzar**, you entrusted **Treyyyy (Vegeta)** and the team with maintaining and continuing development of the project.
+**Mythic Framework** was orginally created by **Alzar** and **Dr Nick**. It was later publicly released by **Alzar**, you entrusted **[Treyyyy (Vegeta)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj91q-U3a-RAxXrZvUHHW6YHzEQtwJ6BAgLEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU&opi=89978449)** and the team with maintaining and continuing development of the project.
 
 The original repository was previously available [here](https://github.com/Alzar/mythic-framework), but is no longer publicly accessible at this time. In the future, we hope to make the original version available again with stability fixes and additional improvements to better support legacy users of the **Mythic Framework**.
 
