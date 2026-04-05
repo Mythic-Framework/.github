@@ -30,29 +30,31 @@ You can explore all the available standalone resources here:
 
 ## Official Discord
 
-- [Discord Link](https://discord.gg/N2JARAe8Rp) - Offical Discord for Mythic Framework community-driven support forum!
+- [Discord Link](https://discord.gg/N2JARAe8Rp) - Official Discord server for the **Mythic Framework** community-driven support forum.
 
 ## Offical Website
 
-- [Website](https://mythicframework.mintlify.app/) - Offical Website for Mythic Framework. Thank you Artmines!
+- [Website](https://mythicframework.mintlify.app/) - Offical Website for **Mythic Framework**. Special thanks to **[Artmines](https://github.com/Artmines)** for helping make it possible
 
 ## Project Maintainers
 
-- [Treyyyy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj91q-U3a-RAxXrZvUHHW6YHzEQtwJ6BAgLEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU&opi=89978449) - Community Owner
-- Tyh - Community Owner
-- Van Man (DrBooly) - Community Owner
+The following individuals are responsible for the contined maintenace and direction of **Mythic Framework**;
+
+- **[Treyyyy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj91q-U3a-RAxXrZvUHHW6YHzEQtwJ6BAgLEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU&opi=89978449)** - Community Owner
+- **Tyh** - Community Owner
+- **[DrBooly](https://github.com/DrBooly-491)** *(aka Van Man)* - Community Owner
 
 ## 👥 Contributors
 
-We’re incredibly thankful to everyone who has contributed to the development and evolution of the Mythic Framework. Here are the amazing people who’ve helped shape it:
+We're incredibly thankful to everyone who has contributed to the contined development, maintenance and improvement of **Mythic Framework***. The following individuals have all played a role in helping shape and support the project;
 
 - **Treyyyy**
 - **Tyh**
-- **Artmines (For daily updates and edits)**
-- **DrBooly (Van Man)**
-- **Hollow** (adding the major statebag spam fix)
-- **notdroid** for finding the statebag spam issue and contributing the fix
-- **Nerxa** for the antifuck ghosting issue fix
+- **[Artmines](https://github.com/Artmines)** - *(Daily updates and ongoing refinements)*
+- **[DrBooly (Van Man)](https://github.com/DrBooly-491)**
+- **Hollow** - *(Major Statebag spam fix)*
+- **[notdroid](https://github.com/notdroiddev)** - *(Identified he statebag spam issue and contributed to the fix)*
+- **[Nerxa](https://github.com/NerxaOG)** - *(Anti-shosting fix)*
 
 ## Credits
 
@@ -60,26 +62,33 @@ We’re incredibly thankful to everyone who has contributed to the development a
 
 ## Information
 
-# 🚧DISCLAIMER🚧
+# 🚧 DISCLAIMER 🚧
 
-We do not own this framework, and we am simply trying to give it the support it deserves. The framework was originally built by Alzar & Dr Nick. Alzar has taken the liberty of releasing the framework and allowing Treyyyy (Vegeta) and team To Maintain it. You can find Alzars orignal repo here [original repository](https://github.com/Alzar/mythic-framework)
+We do not own **Mythic Framework** and are simply committed to providing the continused support and maintenance it deserves.
+**Mythic Framework** was orginally created by **Alzar** and **Dr Nick*. It was later publicly released by **Alzar**, you entrusted **Treyyyy (Vegeta)** and the team with maintaining and continuing development of the project.
+
+The original repository was previously available [here](https://github.com/Alzar/mythic-framework), but is no longer publicly accessible at this time. In the future, we hope to make the original version available again with stability fixes and additional improvements to better support legacy users of the **Mythic Framework**.
 
 # Requirements
 
 | Packages | Link                                                                                                                          |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| NodeJS   | [Download Here](https://nodejs.org/en/download?text=+)                                                                        |
+| NodeJS   | [Download Here](https://nodejs.org/en/download?text=+) *(Latest LTS recommended)*                                             |
 | PNPM     | [Download Here](https://pnpm.io/installation)                                                                                 |
-| MongoDB  | [Download Here](https://www.mongodb.com/try/download/community) (v6.0.5)                                                      |
-| MariaDB  | [Download Here](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.6.12&os=windows&cpu=x86_64&pkg=msi&m=acorn) (v10.6.12) |
-| HeidiSQL | [Download Here](https://www.heidisql.com/download.php) (\*can be installed via MariaDB)                                       |
+| Bun      | [Download Here](https://bun.sh) *(Optional alternative to PNPM, generally fater)*                                             |
+| MongoDB  | [Download Here](https://www.mongodb.com/try/download/community) *(Latest stable release recommended)*                         |
+| MariaDB  | [Download Here](https://mariadb.org/download/?t=mariadb&p=mariadb&r=12.2.2&os=windows&cpu=x86_64&pkg=msi&mirror=realworldgroup) *(Latest stable release recommended)* |
+| HeidiSQL | [Download Here](https://www.heidisql.com/download.php) (Optional - may also be installed alongside MariaDB)*                  |
 
 ## Map Dependencies
 
-This is a map list used by **Mythic Framework** for business, government ect.
-Most of these maps are automatically started by the server (the ones that are not, will be signed with a "\*") since they are already included in the **resources.cfg** file:
+Below is the list of map dependencies used by **Mythic Framework** for businesses, goverment locations and other framework-supported interiors.
+Most of these map resources are started automatically by the server. Any resource marked with a "\*" is **not** started automatically and must be added manually, as it is **not included by default** in the standard `resources.cfg`.
 
-- [cfx-gabz-\*](https://fivem.gabzv.com/category/subscription) (all the maps are used)
+Some MLOs in the **Mythic Framework** may no longer be available, or you might prefer others. You can always move the coordinates to work with any MLOs you're using or prefer.
+
+**Stock Supported Maps**
+- [cfx-gabz-\*](https://fivem.gabzv.com/category/subscription) (almost all available supported maps are used)
 - [cfx_gn_burgershot](https://gnstud.io/products/burgershot)
 - [cfx_gn_bx_food_props](https://gnstud.io/collections/props)
 - [gn_saloon](https://gnstud.io/products/black-woods-saloon)
@@ -88,15 +97,19 @@ Most of these maps are automatically started by the server (the ones that are no
 - [cafe_prego](https://artex.tebex.io/package/6084340)
 - [noodle_exchange](https://fivem.map4all-shop.com/package/4967545)
 - [xerogasstation](https://fivem.map4all-shop.com/package/5342855)
-- [artgallery](https://www.k4mb1maps.com/package/4672250)
+- [artgallery](https://k4mb1maps.com/product/4672250)
 - [digital_den](https://patoche-mapping.tebex.io/package/5171582)
 - [Auto Exotics](https://lb-customs.tebex.io/package/4339272) \*
 - [Smoke on the Water](https://mrhunter.tebex.io/package/5198707) \*
-- [Ferrari Pawnshop](https://www.k4mb1maps.com/package/4672248) \*
-- [Dreamworks Mechanics](https://juniors-interiors.tebex.io/category/1930382) \*
+- [Ferrari Pawnshop](https://www.k4mb1maps.com/product/4672248) \*
+- [Dreamworks Mechanics]([https://juniors-interiors.tebex.io/category/1930382](https://juniors-interiors.tebex.io/package/5103582)) \*
 - [Dynasty8 real estate agency](https://forum.cfx.re/t/mlo-dynasty8-real-estate-agency/1842152) \*
-- **dulu_last_train** he stopped selling his last train map :|
-- **rockford_records** he shut down his tebex :|
-- **nutt_sagma** he shut down his tebex :|
-- **tobii-mineshaft** he shut down his patreon :|
-- **tobii-fightclub** he shut down his patreon :|
+
+**Deprecated / No Longer Available**
+Some maps were previously used or supported, but are no longer publicly available from their original creators, and will need to be replaced, with alternatives from other creators.
+- dulu_last_train
+- rockford_records
+- nutt_sagma
+- tobii-mineshaft
+- tobii-fightclub
+
