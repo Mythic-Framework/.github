@@ -76,7 +76,7 @@ Redistribution of the Software is permitted under the following conditions:
 
 * Redistribution must not be used to compete with, replace, or replicate the Mythic Framework ecosystem;
 
-* Uploading the full Framework, or aggregations of repositories that together recreate a substantial portion of the Framework, whether public or private, is strictly prohibited;
+* Uploading the full Framework, or aggregations of repositories that together recreate a substantial portion of the Framework, is strictly prohibited, except for private internal use by You and authorized members of Your Server or development team. Such private use must not involve distribution to unauthorized third parties.;
 
 * Forking, cloning, or copying the Software for the purpose of contributing, submitting pull requests, or collaborating on development is explicitly permitted, including cases involving minimal or incremental changes.
 
