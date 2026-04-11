@@ -98,12 +98,12 @@ This restriction applies only to the Software itself, not to the Server environm
 
 All redistributions and public uses must include the following attribution:
 
-  Mythic Framework
-  Maintained by: Trey
-  Organization: Mythic Framework
-  Platform: CFX.re (FiveM/RedM)
-  Repository: https://github.com/Mythic-Framework
-  License: Included in distribution
+> ### Mythic Framework Attribution
+> Maintained by: Trey  
+> Organization: Mythic Framework  
+> Platform: CFX.re (FiveM/RedM)  
+> Repository: https://github.com/Mythic-Framework  
+> License: Included in distribution  
 
 Attribution must be visible and not intentionally hidden.
 
